@@ -167,10 +167,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: shibapi
+    username: shixiuyin
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: shixiuyin
+    owner: shibapi
     repo: blog-comments
     oauth:
         client_id: e7243e9233d9d8076a25
