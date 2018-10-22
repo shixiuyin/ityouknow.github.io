@@ -18,8 +18,8 @@ favicon: favicon.png
 repository: shixiuyin/shixiuyin.github.io
 github_url: https://github.com/shixiuyin
 cnblog_url: http://www.cnblogs.com/ityouknow
-url: https://github.com/shixiuyin
-enforce_ssl: ityouknow.com
+url: http://shibapi.com
+enforce_ssl: shibapi.com
 
 ## Gem
 plugins:
