@@ -9,6 +9,6 @@
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 博客源码使用:[纯洁的微笑](https://github.com/ityouknow/ityouknow.github.io)
 
-## 我的微信公众号
+## 我的微信公众号  test
 
 ![](/assets/images/wx_qrcode.jpg)
