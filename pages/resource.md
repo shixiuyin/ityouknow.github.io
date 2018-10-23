@@ -2,7 +2,7 @@
 layout: page
 title: 视频资料整理
 titlebar: resources
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 资料来自于网络,如果作者认为侵权，请联系删除
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 资料来自于网络,如果有侵权，请联系删除
 menu: resources
 css: ['blog-page.css']
 permalink: /resources
