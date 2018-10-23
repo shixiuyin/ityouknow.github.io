@@ -14,7 +14,7 @@ permalink: /javares
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='arch' or post.keywords contains '架构' %}
+                {% if post.category=='javares' or post.keywords contains '视频' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
