@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 视频资料整理
-titlebar: resources
+titlebar: javares
 subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 资料来自于网络,如果有侵权，请联系删除
-menu: resources
+menu: javares
 css: ['blog-page.css']
-permalink: /resources
+permalink: /javares
 ---
 
 <div class="row">
