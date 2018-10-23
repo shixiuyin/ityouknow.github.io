@@ -29,7 +29,7 @@ permalink: /resources
         <!-- Pagination -->
         {% include pagination.html %}
 
-        <!-- Comments -->
+       <!-- Comments -->
        <div class="comment">
          {% include comments.html %}
        </div>
