@@ -38,6 +38,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：石扒皮  
-- 网站链接：https://shibapi.com/
+- 网站链接：[https://shibapi.com](https://shibapi.com/)
 - 网站描述：石扒皮 的个人博客，总结，归纳，思考，分享  
 
