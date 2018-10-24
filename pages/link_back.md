@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Link
-titlebar: Link
+title: link_back
+titlebar: link_back
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Resource link
-menu: Link
-permalink: /link
+menu: link_back
+permalink: /link_back
 ---
 
 [//]: # (
