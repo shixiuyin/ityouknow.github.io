@@ -1,6 +1,6 @@
 # 个人博客
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。---666
+这是我的个人博客项目，里面会记录生活和技术的点点滴滴.
 
 
 访问地址：[https://shixiuyin.github.io/](https://shixiuyin.github.io/)
