@@ -2,7 +2,7 @@
 layout: page
 title: 视频资料整理
 titlebar: javase
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 资料来自于网络,如果有侵权，请联系删除
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;学无止境
 menu: javase
 css: ['blog-page.css']
 permalink: /javase
