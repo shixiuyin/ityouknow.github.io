@@ -65,8 +65,8 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /javase.html
+    label: java基础教程
 
   -
     href: /javares.html
@@ -134,9 +134,9 @@ classes:
     describe: 吾生有崖，学而无涯
 
   -
-    href: /jvm.html
-    name: Jvm系列文章
-    describe: Java之根基，Java程序员必学
+    href: /javase.html
+    name: java基础系列文章
+    describe: java基础从入门到放弃
 
 
 # ---------------- #

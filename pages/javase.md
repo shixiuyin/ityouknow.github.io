@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 视频资料整理
-titlebar: javares
-subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 学无止境
-menu: javares
+titlebar: javase
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 资料来自于网络,如果有侵权，请联系删除
+menu: javase
 css: ['blog-page.css']
-permalink: /javares
-keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot 资源,SpringCloud视频，Java学习资料,java学习路线,Java视频学习
+permalink: /javase
+keywords: javase, java基础, java基础教程 ,java教程, java学习线路图,java视频
 ---
 
 <div class="row">
@@ -15,7 +15,7 @@ keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot �
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='javares' or post.keywords contains '视频' %}
+                {% if post.category=='javase' or post.keywords contains '视频' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
