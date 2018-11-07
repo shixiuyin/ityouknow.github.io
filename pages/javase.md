@@ -19,7 +19,7 @@ keywords: javase, java基础, java基础教程 ,java教程, java学习线路图,
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-                        <a class="posts-list-name bubble-float-left" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                        <a class="posts-list-name bubble-float-left" href="{{ post.url }}">{{ post.title }}</a>
                         <span class='circle'></span>
                     </div>
                 </li>
