@@ -12,10 +12,10 @@ keywords: javase, java基础, java基础教程 ,java教程, java学习线路图,
 <div class="row">
 
     <div class="col-md-12">
-
+    
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='javase' or post.keywords contains '视频' %}
+                {% if post.category=='javase' or post.keywords contains 'javase' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -26,10 +26,10 @@ keywords: javase, java基础, java基础教程 ,java教程, java学习线路图,
                 {% endif %}
             {% endfor %}
         </ul> 
-
+    
         <!-- Pagination -->
         {% include pagination.html %}
-
+    
        <!-- Comments -->
        <div class="comment">
          {% include comments.html %}
@@ -42,6 +42,6 @@ keywords: javase, java基础, java基础教程 ,java教程, java学习线路图,
 
         // Enable bootstrap tooltip
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-
+    
     });
 </script>
