@@ -10,7 +10,7 @@ keywords: java基础，java环境搭建,javase,java教程，石扒皮，石扒�
 
 
 ## java学习线路图
-<table>
+<table width="100%">
    <tr>
       <th >阶段</th>
       <th>百度云链接</th>
