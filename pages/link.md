@@ -10,7 +10,7 @@ permalink: /link
 
 ## 推荐网站
 
-
+- [纯洁的微笑](http://www.ityouknow.com/) - 分享技术，品味人生
 - [程序员导航网站](http://tooool.org/) - 程序员的导航网站 
 - [Spring Boot中文导航](http://springboot.fun/) - Spring Boot的资源导航网站    
 - [Spring Cloud中文导航](http://springcloud.fun/) - Spring Cloud的资源导航网站    
@@ -38,6 +38,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：石扒皮  
-- 网站链接：[https://shibapi.com](https://shibapi.com/)
-- 网站描述：石扒皮 的个人博客，总结，归纳，思考，分享  
+- 网站链接：[http://www.shibapi.com](http://www.shibapi.com)
+- 网站描述：石扒皮 的个人博客，记录生活的瞬间，分享学习的心得，感悟生活，留住感动，静静寻觅生活的美好
 
