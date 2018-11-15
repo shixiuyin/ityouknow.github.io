@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java基础入门系列001——HelloWorld
+title: java基础21天入门系列001——HelloWorld
 category: javase
 tags: [javase]
 excerpt: 入门系列开端之作：java运行环境搭建
