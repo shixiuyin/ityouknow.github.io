@@ -1,63 +1,33 @@
 ---
 layout: post
-title: java基础入门系列001——HelloWorld
+title: 21篇java入门系列之001——HelloWorld
 category: javase
 tags: [javase]
 excerpt: 入门系列开端之作：java运行环境搭建
 keywords: java基础，java环境搭建,javase,java教程，石扒皮，石扒皮java栈点
 ---
 
-## 一、常用DOS命令
 
-```xml
-常用的DOS命令
-dir（directory） :    列出当前目录下的文件以及文件夹
-md（make directory） :   创建目录
-rd（remove  directory） :     删除目录
-cd（change directory）:    进入指定目录
-cd.. :  退回到上一级目录
-cd \:    退回到根目录
-exit :   退出 dos 命令行
-```
+
+## 一、java简介
 
 
 
-## 二、java语言的运行机制
+### 1.java概述
 
-```xml
-1.JVM(java虚拟机)
-2.GC(垃圾回收器)
-```
+​	学习之前需要了解——java是什么?java是sun公司推出的面向对象程序设计语言，特别适用于Interent应用程序开发,它的最大特点就是“一次编译，到处运行”,并且能够在各种操作系统上运行,例如:windows,linux等。
 
-
-
-### 2.1 JVM
-
-```java
-概念:JVM是一个虚拟的计算机，具有指令集并使用不同的存储区域。负责执行指令，管理数据、内存、寄存器
-
-java是跨平台的语言(windows,linux,mac):
-	怎么实现跨平台的:因为不同的操作系统（平台）拥有不同的虚拟机。
-
-Java虚拟机机制屏蔽了底层运行平台的差别，实现了“一次编译，到处运行”。
-```
-
-![1533007191295](../../../assets/images/img01/1533007191295.png)
-
-
-
-### 2.2.GC 垃圾回收器
-
-```java
-1.系统开辟一个线程自动检测哪些对象不再被使用，然后将这些空闲的对象及资源进行回收。（c,c++需要手动回收）
-2.在系统运行的时候，会自动去执行。我们人工无法精确的取控制和干预.
-```
+​	
 
 
 
 
 
-## 三、Java语言特点
+### 2.java发展史
+
+
+
+### 3.Java语言特点
 
 ```java
 1.面向对象
@@ -73,7 +43,32 @@ Java虚拟机机制屏蔽了底层运行平台的差别，实现了“一次编�
 
 
 
-## 四、第一个程序---HelloWorld
+### 4.java语言的构成
+
+
+
+
+
+## 二、java快速入门
+
+
+
+### 1、常用DOS命令
+
+```xml
+常用的DOS命令
+dir（directory） :    列出当前目录下的文件以及文件夹
+md（make directory） :   创建目录
+rd（remove  directory） :     删除目录
+cd（change directory）:    进入指定目录
+cd.. :  退回到上一级目录
+cd \:    退回到根目录
+exit :   退出 dos 命令行
+```
+
+
+
+
 
 ```xml
 步骤(记事本):
@@ -141,11 +136,9 @@ public class HelloWorld{
  - java HelloWorld
 ```
 
-
-
 ### 4.4案例
 
-![1533024580869](../../../assets/images/img01/1533024580869.png)
+![1533024580869](D:/blog/shixiuyin.github.io/assets/images/img01/1533024580869.png)
 
 
 
@@ -170,7 +163,58 @@ public class Test01{
 
 
 
-## 五、eclipse 使用
+
+
+
+
+
+
+## 三、java语言的运行机制
+
+```xml
+1.JVM(java虚拟机)
+2.GC(垃圾回收器)
+```
+
+
+
+### 2.1 JVM
+
+```java
+概念:JVM是一个虚拟的计算机，具有指令集并使用不同的存储区域。负责执行指令，管理数据、内存、寄存器
+
+java是跨平台的语言(windows,linux,mac):
+	怎么实现跨平台的:因为不同的操作系统（平台）拥有不同的虚拟机。
+
+Java虚拟机机制屏蔽了底层运行平台的差别，实现了“一次编译，到处运行”。
+```
+
+![1533007191295](../../../assets/images/img01/1533007191295.png)
+
+
+
+### 2.2.GC 垃圾回收器
+
+```java
+1.系统开辟一个线程自动检测哪些对象不再被使用，然后将这些空闲的对象及资源进行回收。（c,c++需要手动回收）
+2.在系统运行的时候，会自动去执行。我们人工无法精确的取控制和干预.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 五、eclipse编译工具 使用
 
 1.解压直接使用
 
