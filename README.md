@@ -11,6 +11,6 @@
 
 博客源码使用:[纯洁的微笑](https://github.com/ityouknow/ityouknow.github.io)
 
-## 我的微信公众号-test
+## 我的微信公众号xxx
 
 ![](/assets/images/wx_qrcode.jpg)
